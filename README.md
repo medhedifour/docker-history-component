@@ -1,4 +1,4 @@
-# docker-history-monitor
+# docker-history-component
 
 The history contains all data related to the application and its microservices.
 
